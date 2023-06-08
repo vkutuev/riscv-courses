@@ -25,3 +25,5 @@ include::Chapters/Chapter3.adoc[Глава 3. Создание приложен�
 include::Chapters/Chapter4.adoc[Глава 4. Методы отладки]
 
 include::Chapters/TechnicalTerms.adoc[Список терминов]
+
+include::Chapters/Index.adoc[Указатель]
